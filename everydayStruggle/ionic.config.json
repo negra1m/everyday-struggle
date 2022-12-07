@@ -1,0 +1,7 @@
+{
+  "name": "everydayStruggle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

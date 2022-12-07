@@ -72,6 +72,9 @@ typings/
 .env
 .env.test
 
+/.angular
+/.vscode
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
